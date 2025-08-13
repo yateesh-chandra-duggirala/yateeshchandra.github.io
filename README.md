@@ -32,6 +32,7 @@ A passionate **Data Engineer** with 2 years of experience working on large-scale
 
 ### 2. 👨‍💼 Employee Management System
 **Description:** Developed a mini project to explore Spring MVC framework for building RESTful APIs in Java, with React.js as the front-end interface. Implemented CRUD operations for employee data management with seamless API integration.
+
 **Tech Stack:** Java, Spring MVC, REST API, React.js
 🔗 [View Project](https://github.com/yateesh-chandra-duggirala/EmployeeManagement)
 
